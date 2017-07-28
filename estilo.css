@@ -1,0 +1,55 @@
+
+.barra_superior{
+    background-color: #666;
+    color: white;
+    height: 50px;
+    margin-left:0px;
+    box-shadow: 2px 2px 2px black;
+    text-decoration: none;
+    position: relative;
+}
+
+.menu{
+    font-family: 'Souce Code Pro', Helveltica;
+    font-size: 20px;
+    text-align: left;
+    list-style-type: none;
+    overflow: hidden;
+    margin-left: 60px;
+    margin-bottom: 0;
+
+}
+
+div ul li a{
+    padding:10px 16px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+}
+li{
+    padding-botton: 0px;
+    float: left;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+li:hover{
+    background-color:black;
+}
+
+
+.imgfundo{
+    background-image: url('te.jpg');
+    background-size: cover;
+    height: 200px;
+
+}
+.navbar{
+    margin: 0;
+    radius: 0px;
+
+
+}
